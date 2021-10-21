@@ -1,0 +1,6 @@
+name: ElementalAPI
+version: '${project.version}'
+main: me.justmicha.elementalapi.ElementalAPI
+api-version: 1.17
+authors: [ justmicha ]
+description: ElementalAPI | Create spigot plugins with a foundation to build off of.
